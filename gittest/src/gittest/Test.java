@@ -1,7 +1,7 @@
 package gittest;
 
 public class Test {
-		//1 ³õÊ¼»¯ 
-	//dev ¿ª·¢
-	
+		//1 ï¿½ï¿½Ê¼ï¿½ï¿½ 
+	//dev ï¿½ï¿½ï¿½ï¿½
+	//å›é€€åˆ°æœªä¿®æ”¹ç¼–ç çš„çŠ¶æ€ history -reset
 }
